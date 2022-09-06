@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauncho
+- 👋 Hi, I’m @Preston Stewart
 - 👀 I’m interested in Javascript  
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on im not sure litterally trying to learn to change my career
